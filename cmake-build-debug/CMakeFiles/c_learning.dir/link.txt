@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/c_learning.dir/main.cpp.o  -o c_learning.exe -Wl,--out-implib,libc_learning.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
